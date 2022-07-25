@@ -153,6 +153,7 @@ input:checked + .slider:before {
   padding: 2.8rem;
   border-radius: 11px;
   color: hsl(232, 13%, 33%);
+  margin-bottom: 10rem;
 }
 
 .title-pricing {
